@@ -1,0 +1,963 @@
+{
+    "results": [
+    {
+    "type": "featured",
+    "item": {
+        "nutrition_visibility": "auto",
+        "country": "US",
+        "instructions": [
+            {
+                "start_time": 0,
+                "appliance": null,
+                "hacks": [
+                    {
+                        "start_index": 388,
+                        "match": "knead",
+                        "end_index": 392,
+                        "id": 25
+                    }
+                ],
+                "end_time": 0,
+                "temperature": null,
+                "id": 78005,
+                "position": 1,
+                "display_text": "In the bowl of a stand mixer fitted with a dough hook, combine the milk, water, sugar, salt, yeast, butter, and flour. Mix for 6-8 minutes until a smooth dough forms. If the dough remains too sticky after 8 minutes, add an additional 4 tablespoons of flour. If kneading by hand, mix in a large bowl until a shaggy dough forms, then turn out onto a clean, lightly floured work surface and knead the dough about 10-15 minutes until smooth."
+            },
+            {
+                "start_time": 0,
+                "appliance": null,
+                "end_time": 0,
+                "temperature": null,
+                "id": 78006,
+                "position": 2,
+                "display_text": "Shape it all into a ball, then cover it with a bowl or kitchen towel and let it rest on the counter for 30 minutes. This helps loosen the gluten strands resulting in a chewier, softer dough."
+            },
+            {
+                "start_time": 0,
+                "appliance": null,
+                "end_time": 0,
+                "temperature": null,
+                "id": 78007,
+                "position": 3,
+                "display_text": "After 30 minutes, shape the rolls. Divide the dough in half and set one half aside, covered to prevent drying out. Roll the remaining half out to about 1 inch thick, and cut into 2½-inch rounds using a cookie cutter. Place the rounds onto a parchment-lined baking sheet and cover with plastic wrap. Repeat with the remaining dough."
+            },
+            {
+                "start_time": 0,
+                "appliance": null,
+                "end_time": 0,
+                "temperature": null,
+                "id": 78008,
+                "position": 4,
+                "display_text": "Allow the dough rounds to rest for 45 minutes until they are soft and puffy."
+            },
+            {
+                "start_time": 0,
+                "appliance": null,
+                "end_time": 0,
+                "temperature": null,
+                "id": 78009,
+                "position": 5,
+                "display_text": "While the rounds are proofing, prepare the cream cheese filling. In a bowl, mix together the cream cheese, sugar, vanilla extract, egg yolk, and lemon zest. Refrigerate until ready to use."
+            },
+            {
+                "start_time": 0,
+                "appliance": null,
+                "end_time": 0,
+                "temperature": null,
+                "id": 78010,
+                "position": 6,
+                "display_text": "To prepare the blackberry compote, in a pot over low heat, combine blackberries, sugar, lemon zest and lemon juice. Let the berries release their juices, stirring gently with a soft spatula. Simmer on low for 10 minutes until the compote thickens."
+            },
+            {
+                "start_time": 0,
+                "appliance": null,
+                "end_time": 0,
+                "temperature": null,
+                "id": 78011,
+                "position": 7,
+                "display_text": "Preheat the oven to 375˚F (190˚C)."
+            },
+            {
+                "start_time": 0,
+                "appliance": null,
+                "end_time": 0,
+                "temperature": null,
+                "id": 78012,
+                "position": 8,
+                "display_text": "When the dough discs are puffy, brush the surfaces with the beaten egg to achieve a golden-brown color and shine after baking. Use your fingers to make a round indentation in the center of each disc. Scoop about 2 tablespoons of cream cheese filling into each indentation, then top with blackberry compote."
+            },
+            {
+                "start_time": 0,
+                "appliance": null,
+                "end_time": 0,
+                "temperature": null,
+                "id": 78013,
+                "position": 9,
+                "display_text": "Bake for 18-20 minutes until golden brown."
+            },
+            {
+                "start_time": 0,
+                "appliance": null,
+                "hacks": [
+                    {
+                        "start_index": 45,
+                        "match": "sliced",
+                        "end_index": 50,
+                        "id": 6
+                    }
+                ],
+                "end_time": 0,
+                "temperature": null,
+                "id": 78014,
+                "position": 10,
+                "display_text": "Garnish with powdered sugar, lemon zest, and sliced mixed fresh berries if using."
+            },
+            {
+                "start_time": 0,
+                "appliance": null,
+                "end_time": 0,
+                "temperature": null,
+                "id": 78015,
+                "position": 11,
+                "display_text": "Enjoy!"
+            }
+        ],
+        "keywords": "bakery recipes, blackberry cream cheese danish recipe, blackberry cream cheese kolaches, cream cheese danish recipe, recipe, tasty",
+        "facebook_posts": [],
+        "language": "eng",
+        "seo_path": "9295813,64483,9299369",
+        "user_ratings": {
+            "count_positive": 3,
+            "score": 1.0,
+            "count_negative": 0
+        },
+        "price": {},
+        "id": 9039,
+        "brand": null,
+        "slug": "blackberry-cream-cheese-kolaches",
+        "servings_noun_singular": "kolache",
+        "show_id": 17,
+        "prep_time_minutes": 45,
+        "is_subscriber_content": false,
+        "sections": [
+            {
+                "components": [
+                    {
+                        "raw_text": "½ cup warm milk",
+                        "extra_comment": "",
+                        "ingredient": {
+                            "updated_at": 1509035106,
+                            "name": "warm milk",
+                            "created_at": 1501765184,
+                            "display_plural": "warm milks",
+                            "id": 2823,
+                            "display_singular": "warm milk"
+                        },
+                        "id": 104649,
+                        "position": 2,
+                        "measurements": [
+                            {
+                                "unit": {
+                                    "system": "imperial",
+                                    "name": "cup",
+                                    "display_plural": "cups",
+                                    "display_singular": "cup",
+                                    "abbreviation": "c"
+                                },
+                                "quantity": "½",
+                                "id": 830514
+                            }
+                        ]
+                    },
+                    {
+                        "raw_text": "½ cup warm water",
+                        "extra_comment": "",
+                        "ingredient": {
+                            "updated_at": 1509035257,
+                            "name": "warm water",
+                            "created_at": 1495132646,
+                            "display_plural": "warm waters",
+                            "id": 472,
+                            "display_singular": "warm water"
+                        },
+                        "id": 104650,
+                        "position": 3,
+                        "measurements": [
+                            {
+                                "unit": {
+                                    "system": "imperial",
+                                    "name": "cup",
+                                    "display_plural": "cups",
+                                    "display_singular": "cup",
+                                    "abbreviation": "c"
+                                },
+                                "quantity": "½",
+                                "id": 830524
+                            }
+                        ]
+                    },
+                    {
+                        "raw_text": "¼ cup sugar",
+                        "extra_comment": "",
+                        "ingredient": {
+                            "updated_at": 1509035288,
+                            "name": "sugar",
+                            "created_at": 1493314650,
+                            "display_plural": "sugars",
+                            "id": 24,
+                            "display_singular": "sugar"
+                        },
+                        "id": 104651,
+                        "position": 4,
+                        "measurements": [
+                            {
+                                "unit": {
+                                    "system": "imperial",
+                                    "name": "cup",
+                                    "display_plural": "cups",
+                                    "display_singular": "cup",
+                                    "abbreviation": "c"
+                                },
+                                "quantity": "¼",
+                                "id": 830512
+                            }
+                        ]
+                    },
+                    {
+                        "raw_text": "1 teaspoon salt",
+                        "extra_comment": "",
+                        "ingredient": {
+                            "updated_at": 1509035288,
+                            "name": "salt",
+                            "created_at": 1493314644,
+                            "display_plural": "salts",
+                            "id": 22,
+                            "display_singular": "salt"
+                        },
+                        "id": 104652,
+                        "position": 5,
+                        "measurements": [
+                            {
+                                "unit": {
+                                    "system": "imperial",
+                                    "name": "teaspoon",
+                                    "display_plural": "teaspoons",
+                                    "display_singular": "teaspoon",
+                                    "abbreviation": "tsp"
+                                },
+                                "quantity": "1",
+                                "id": 830518
+                            }
+                        ]
+                    },
+                    {
+                        "raw_text": "1 teaspoon instant yeast (3g)",
+                        "extra_comment": "(3g)",
+                        "ingredient": {
+                            "updated_at": 1522376150,
+                            "name": "instant yeast",
+                            "created_at": 1522376150,
+                            "display_plural": "instant yeasts",
+                            "id": 3930,
+                            "display_singular": "instant yeast"
+                        },
+                        "id": 104653,
+                        "position": 6,
+                        "measurements": [
+                            {
+                                "unit": {
+                                    "system": "imperial",
+                                    "name": "teaspoon",
+                                    "display_plural": "teaspoons",
+                                    "display_singular": "teaspoon",
+                                    "abbreviation": "tsp"
+                                },
+                                "quantity": "1",
+                                "id": 830525
+                            }
+                        ]
+                    },
+                    {
+                        "raw_text": "¼ cup unsalted butter, softened",
+                        "extra_comment": "softened",
+                        "ingredient": {
+                            "updated_at": 1509035272,
+                            "name": "unsalted butter",
+                            "created_at": 1494806355,
+                            "display_plural": "unsalted butters",
+                            "id": 291,
+                            "display_singular": "unsalted butter"
+                        },
+                        "id": 104654,
+                        "position": 7,
+                        "measurements": [
+                            {
+                                "unit": {
+                                    "system": "imperial",
+                                    "name": "cup",
+                                    "display_plural": "cups",
+                                    "display_singular": "cup",
+                                    "abbreviation": "c"
+                                },
+                                "quantity": "¼",
+                                "id": 830516
+                            }
+                        ]
+                    },
+                    {
+                        "raw_text": "3 cups all-purpose flour or bread flour (390g)",
+                        "extra_comment": "or bread flour (390g)",
+                        "ingredient": {
+                            "updated_at": 1509035280,
+                            "name": "all-purpose flour",
+                            "created_at": 1494122348,
+                            "display_plural": "all-purpose flours",
+                            "id": 185,
+                            "display_singular": "all-purpose flour"
+                        },
+                        "id": 104655,
+                        "position": 8,
+                        "measurements": [
+                            {
+                                "unit": {
+                                    "system": "imperial",
+                                    "name": "cup",
+                                    "display_plural": "cups",
+                                    "display_singular": "cup",
+                                    "abbreviation": "c"
+                                },
+                                "quantity": "3",
+                                "id": 830515
+                            }
+                        ]
+                    }
+                ],
+                "name": "Dough:",
+                "position": 1
+            },
+            {
+                "components": [
+                    {
+                        "raw_text": "8 ounces cream cheese (226g), softened",
+                        "extra_comment": "softened",
+                        "ingredient": {
+                            "updated_at": 1509035276,
+                            "name": "cream cheese",
+                            "created_at": 1494297000,
+                            "display_plural": "cream cheeses",
+                            "id": 242,
+                            "display_singular": "cream cheese"
+                        },
+                        "id": 104657,
+                        "position": 10,
+                        "measurements": [
+                            {
+                                "unit": {
+                                    "system": "imperial",
+                                    "name": "ounce",
+                                    "display_plural": "oz",
+                                    "display_singular": "oz",
+                                    "abbreviation": "oz"
+                                },
+                                "quantity": "8",
+                                "id": 830526
+                            }
+                        ]
+                    },
+                    {
+                        "raw_text": "¼ cup sugar (50g)",
+                        "extra_comment": "",
+                        "ingredient": {
+                            "updated_at": 1509035288,
+                            "name": "sugar",
+                            "created_at": 1493314650,
+                            "display_plural": "sugars",
+                            "id": 24,
+                            "display_singular": "sugar"
+                        },
+                        "id": 104658,
+                        "position": 11,
+                        "measurements": [
+                            {
+                                "unit": {
+                                    "system": "imperial",
+                                    "name": "cup",
+                                    "display_plural": "cups",
+                                    "display_singular": "cup",
+                                    "abbreviation": "c"
+                                },
+                                "quantity": "¼",
+                                "id": 830521
+                            }
+                        ]
+                    },
+                    {
+                        "raw_text": "½ teaspoon vanilla extract",
+                        "extra_comment": "",
+                        "ingredient": {
+                            "updated_at": 1509035284,
+                            "name": "vanilla extract",
+                            "created_at": 1493745620,
+                            "display_plural": "vanilla extracts",
+                            "id": 103,
+                            "display_singular": "vanilla extract"
+                        },
+                        "id": 104659,
+                        "position": 12,
+                        "measurements": [
+                            {
+                                "unit": {
+                                    "system": "imperial",
+                                    "name": "teaspoon",
+                                    "display_plural": "teaspoons",
+                                    "display_singular": "teaspoon",
+                                    "abbreviation": "tsp"
+                                },
+                                "quantity": "½",
+                                "id": 830513
+                            }
+                        ]
+                    },
+                    {
+                        "raw_text": "1 large egg yolk",
+                        "extra_comment": "",
+                        "ingredient": {
+                            "updated_at": 1509035146,
+                            "name": "large egg yolk",
+                            "created_at": 1499974363,
+                            "display_plural": "large egg yolks",
+                            "id": 2073,
+                            "display_singular": "large egg yolk"
+                        },
+                        "id": 104660,
+                        "position": 13,
+                        "measurements": [
+                            {
+                                "unit": {
+                                    "system": "none",
+                                    "name": "",
+                                    "display_plural": "",
+                                    "display_singular": "",
+                                    "abbreviation": ""
+                                },
+                                "quantity": "1",
+                                "id": 830523
+                            }
+                        ]
+                    },
+                    {
+                        "raw_text": "1 teaspoon lemon zest",
+                        "extra_comment": "",
+                        "ingredient": {
+                            "updated_at": 1518723289,
+                            "name": "lemon zest",
+                            "created_at": 1494124243,
+                            "display_plural": "lemon zests",
+                            "id": 194,
+                            "display_singular": "lemon zest"
+                        },
+                        "id": 104661,
+                        "position": 14,
+                        "measurements": [
+                            {
+                                "unit": {
+                                    "system": "imperial",
+                                    "name": "teaspoon",
+                                    "display_plural": "teaspoons",
+                                    "display_singular": "teaspoon",
+                                    "abbreviation": "tsp"
+                                },
+                                "quantity": "1",
+                                "id": 830517
+                            }
+                        ]
+                    }
+                ],
+                "name": "Cream cheese filling:",
+                "position": 2
+            },
+            {
+                "components": [
+                    {
+                        "raw_text": "2 cups blackberries",
+                        "extra_comment": "",
+                        "ingredient": {
+                            "updated_at": 1528151731,
+                            "name": "blackberries",
+                            "created_at": 1528151731,
+                            "display_plural": "blackberries",
+                            "id": 4249,
+                            "display_singular": "blackberry"
+                        },
+                        "id": 104663,
+                        "position": 16,
+                        "measurements": [
+                            {
+                                "unit": {
+                                    "system": "imperial",
+                                    "name": "cup",
+                                    "display_plural": "cups",
+                                    "display_singular": "cup",
+                                    "abbreviation": "c"
+                                },
+                                "quantity": "2",
+                                "id": 830527
+                            }
+                        ]
+                    },
+                    {
+                        "raw_text": "½ cup sugar",
+                        "extra_comment": "",
+                        "ingredient": {
+                            "updated_at": 1509035288,
+                            "name": "sugar",
+                            "created_at": 1493314650,
+                            "display_plural": "sugars",
+                            "id": 24,
+                            "display_singular": "sugar"
+                        },
+                        "id": 104664,
+                        "position": 17,
+                        "measurements": [
+                            {
+                                "unit": {
+                                    "system": "imperial",
+                                    "name": "cup",
+                                    "display_plural": "cups",
+                                    "display_singular": "cup",
+                                    "abbreviation": "c"
+                                },
+                                "quantity": "½",
+                                "id": 830522
+                            }
+                        ]
+                    },
+                    {
+                        "raw_text": "1 teaspoon lemon zest",
+                        "extra_comment": "",
+                        "ingredient": {
+                            "updated_at": 1518723289,
+                            "name": "lemon zest",
+                            "created_at": 1494124243,
+                            "display_plural": "lemon zests",
+                            "id": 194,
+                            "display_singular": "lemon zest"
+                        },
+                        "id": 104665,
+                        "position": 18,
+                        "measurements": [
+                            {
+                                "unit": {
+                                    "system": "imperial",
+                                    "name": "teaspoon",
+                                    "display_plural": "teaspoons",
+                                    "display_singular": "teaspoon",
+                                    "abbreviation": "tsp"
+                                },
+                                "quantity": "1",
+                                "id": 830530
+                            }
+                        ]
+                    },
+                    {
+                        "raw_text": "1 lemon, juiced",
+                        "extra_comment": "juiced",
+                        "ingredient": {
+                            "updated_at": 1509035282,
+                            "name": "lemon",
+                            "created_at": 1493906426,
+                            "display_plural": "lemons",
+                            "id": 155,
+                            "display_singular": "lemon"
+                        },
+                        "id": 104666,
+                        "position": 19,
+                        "measurements": [
+                            {
+                                "unit": {
+                                    "system": "none",
+                                    "name": "",
+                                    "display_plural": "",
+                                    "display_singular": "",
+                                    "abbreviation": ""
+                                },
+                                "quantity": "1",
+                                "id": 830529
+                            }
+                        ]
+                    }
+                ],
+                "name": "Blackberry compote:",
+                "position": 3
+            },
+            {
+                "components": [
+                    {
+                        "raw_text": "1 large egg, lightly beaten",
+                        "extra_comment": "lightly beaten",
+                        "ingredient": {
+                            "updated_at": 1509035275,
+                            "name": "large egg",
+                            "created_at": 1494382414,
+                            "display_plural": "large eggs",
+                            "id": 253,
+                            "display_singular": "large egg"
+                        },
+                        "id": 104668,
+                        "position": 21,
+                        "measurements": [
+                            {
+                                "unit": {
+                                    "system": "none",
+                                    "name": "",
+                                    "display_plural": "",
+                                    "display_singular": "",
+                                    "abbreviation": ""
+                                },
+                                "quantity": "1",
+                                "id": 830531
+                            }
+                        ]
+                    },
+                    {
+                        "raw_text": "Powdered sugar, for garnish",
+                        "extra_comment": "for garnish",
+                        "ingredient": {
+                            "updated_at": 1509035283,
+                            "name": "powdered sugar",
+                            "created_at": 1493747135,
+                            "display_plural": "powdered sugars",
+                            "id": 144,
+                            "display_singular": "powdered sugar"
+                        },
+                        "id": 104669,
+                        "position": 22,
+                        "measurements": [
+                            {
+                                "unit": {
+                                    "system": "none",
+                                    "name": "",
+                                    "display_plural": "",
+                                    "display_singular": "",
+                                    "abbreviation": ""
+                                },
+                                "quantity": "0",
+                                "id": 830520
+                            }
+                        ]
+                    },
+                    {
+                        "raw_text": "1 lemon zested, for garnish",
+                        "extra_comment": "",
+                        "ingredient": {
+                            "updated_at": 1528222453,
+                            "name": "zest of 1 lemon",
+                            "created_at": 1528222453,
+                            "display_plural": "zests of 1 lemon",
+                            "id": 4266,
+                            "display_singular": "zest of 1 lemon"
+                        },
+                        "id": 104670,
+                        "position": 23,
+                        "measurements": [
+                            {
+                                "unit": {
+                                    "system": "none",
+                                    "name": "",
+                                    "display_plural": "",
+                                    "display_singular": "",
+                                    "abbreviation": ""
+                                },
+                                "quantity": "0",
+                                "id": 830519
+                            }
+                        ]
+                    },
+                    {
+                        "raw_text": "Sliced mixed berries, for garnish (optional)",
+                        "extra_comment": "for garnish (optional)",
+                        "ingredient": {
+                            "updated_at": 1725652333,
+                            "name": "sliced mixed berries",
+                            "created_at": 1725652333,
+                            "display_plural": "sliced mixed berries",
+                            "id": 12445,
+                            "display_singular": "sliced mixed berry"
+                        },
+                        "id": 104671,
+                        "position": 24,
+                        "measurements": [
+                            {
+                                "unit": {
+                                    "system": "none",
+                                    "name": "",
+                                    "display_plural": "",
+                                    "display_singular": "",
+                                    "abbreviation": ""
+                                },
+                                "quantity": "0",
+                                "id": 830528
+                            }
+                        ]
+                    }
+                ],
+                "name": "Assembly:",
+                "position": 4
+            }
+        ],
+        "brand_id": null,
+        "tags": [
+            {
+                "root_tag_type": "meal",
+                "name": "breakfast",
+                "id": 64483,
+                "parent_tag_name": "meal",
+                "display_name": "Breakfast",
+                "type": "meal"
+            },
+            {
+                "root_tag_type": "meal",
+                "name": "desserts",
+                "id": 64485,
+                "parent_tag_name": "meal",
+                "display_name": "Desserts",
+                "type": "meal"
+            },
+            {
+                "root_tag_type": "meal",
+                "name": "snacks",
+                "id": 64491,
+                "parent_tag_name": "meal",
+                "display_name": "Snacks",
+                "type": "meal"
+            },
+            {
+                "root_tag_type": "appliance",
+                "name": "baking",
+                "id": 64492,
+                "parent_tag_name": "appliance",
+                "display_name": "Baking",
+                "type": "appliance"
+            },
+            {
+                "root_tag_type": "appliance",
+                "name": "bakery_goods",
+                "id": 65857,
+                "parent_tag_name": "appliance",
+                "display_name": "Bakery Goods",
+                "type": "appliance"
+            },
+            {
+                "root_tag_type": "equipment",
+                "name": "ice_cream_scoop",
+                "id": 1247772,
+                "parent_tag_name": null,
+                "display_name": "Ice Cream Scoop",
+                "type": "equipment"
+            },
+            {
+                "root_tag_type": "equipment",
+                "name": "sauce_pan",
+                "id": 1247786,
+                "parent_tag_name": null,
+                "display_name": "Sauce Pan",
+                "type": "equipment"
+            },
+            {
+                "root_tag_type": "equipment",
+                "name": "spatula",
+                "id": 1247788,
+                "parent_tag_name": null,
+                "display_name": "Spatula",
+                "type": "equipment"
+            },
+            {
+                "root_tag_type": "equipment",
+                "name": "whisk",
+                "id": 1247793,
+                "parent_tag_name": null,
+                "display_name": "Whisk",
+                "type": "equipment"
+            },
+            {
+                "root_tag_type": "equipment",
+                "name": "dry_measuring_cups",
+                "id": 1280507,
+                "parent_tag_name": null,
+                "display_name": "Dry Measuring Cups",
+                "type": "equipment"
+            },
+            {
+                "root_tag_type": "equipment",
+                "name": "measuring_spoons",
+                "id": 1280508,
+                "parent_tag_name": null,
+                "display_name": "Measuring Spoons",
+                "type": "equipment"
+            },
+            {
+                "root_tag_type": "equipment",
+                "name": "mixing_bowl",
+                "id": 1280510,
+                "parent_tag_name": null,
+                "display_name": "Mixing Bowl",
+                "type": "equipment"
+            },
+            {
+                "root_tag_type": "meal",
+                "name": "breads_pastries",
+                "id": 9299369,
+                "parent_tag_name": "breakfast",
+                "display_name": "Breads & Pastries",
+                "type": "breakfast"
+            },
+            {
+                "root_tag_type": "ingredients_to_avoid",
+                "name": "eggs",
+                "id": 10623588,
+                "parent_tag_name": "allergens",
+                "display_name": "Eggs",
+                "type": "allergens"
+            },
+            {
+                "root_tag_type": "ingredients_to_avoid",
+                "name": "gluten",
+                "id": 10623589,
+                "parent_tag_name": "allergens",
+                "display_name": "Gluten",
+                "type": "allergens"
+            },
+            {
+                "root_tag_type": "ingredients_to_avoid",
+                "name": "dairy",
+                "id": 10623608,
+                "parent_tag_name": "allergens",
+                "display_name": "Dairy",
+                "type": "allergens"
+            }
+        ],
+        "nutrition": {},
+        "is_app_only": false,
+        "name": "Blackberry Cream Cheese Kolaches",
+        "compilations": [],
+        "num_servings": 8,
+        "buzz_id": null,
+        "tips_and_ratings_enabled": true,
+        "aspect_ratio": "9:16",
+        "show": {
+            "name": "Tasty",
+            "id": 17
+        },
+        "created_at": 1726530533,
+        "description": "Blackberry kolaches combine tender, buttery dough with a rich, juicy blackberry filling that bursts with fresh flavor. The sweetness of the berries contrasts beautifully with the light, fluffy pastry, creating a delightful experience in every bite. Perfect for breakfast, a midday snack, or dessert, these kolaches add a homemade, comforting touch to any meal. Whether shared with friends or enjoyed solo, they capture the essence of berries in each delicious bite. Check out more recipes on Sarah's Instagram <a href=\"https://www.instagram.com/groovyfoodiess/?hl=en\">page</a>.",
+        "draft_status": "published",
+        "inspired_by_url": null,
+        "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/503908.jpg",
+        "thumbnail_alt_text": "",
+        "total_time_minutes": 150,
+        "video_url": "https://vid.tasty.co/output/352799/hls24_1726530339.m3u8",
+        "updated_at": 1726530541,
+        "credits": [
+            {
+                "name": "Sarah Banh",
+                "type": "internal"
+            }
+        ],
+        "approved_at": 1726532492,
+        "is_one_top": false,
+        "servings_noun_plural": "kolaches",
+        "renditions": [
+            {
+                "container": "mp4",
+                "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/352799/square_720/1726530339_00001.png",
+                "file_size": 7883089,
+                "url": "https://vid.tasty.co/output/352799/square_720/1726530339",
+                "duration": 30489,
+                "bit_rate": 2069,
+                "content_type": "video/mp4",
+                "aspect": "portrait",
+                "width": 404,
+                "minimum_bit_rate": null,
+                "name": "mp4_404x720",
+                "maximum_bit_rate": null,
+                "height": 720
+            },
+            {
+                "container": "mp4",
+                "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/352799/square_320/1726530339_00001.png",
+                "file_size": 2702639,
+                "url": "https://vid.tasty.co/output/352799/square_320/1726530339",
+                "duration": 30489,
+                "bit_rate": 710,
+                "content_type": "video/mp4",
+                "aspect": "portrait",
+                "width": 180,
+                "minimum_bit_rate": null,
+                "name": "mp4_180x320",
+                "maximum_bit_rate": null,
+                "height": 320
+            },
+            {
+                "container": "mp4",
+                "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/352799/landscape_720/1726530339_00001.png",
+                "file_size": 7883577,
+                "url": "https://vid.tasty.co/output/352799/landscape_720/1726530339",
+                "duration": 30489,
+                "bit_rate": 2069,
+                "content_type": "video/mp4",
+                "aspect": "portrait",
+                "width": 404,
+                "minimum_bit_rate": null,
+                "name": "mp4_404x720",
+                "maximum_bit_rate": null,
+                "height": 720
+            },
+            {
+                "container": "mp4",
+                "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/352799/landscape_480/1726530339_00001.png",
+                "file_size": 4528828,
+                "url": "https://vid.tasty.co/output/352799/landscape_480/1726530339",
+                "duration": 30489,
+                "bit_rate": 1189,
+                "content_type": "video/mp4",
+                "aspect": "portrait",
+                "width": 270,
+                "minimum_bit_rate": null,
+                "name": "mp4_270x480",
+                "maximum_bit_rate": null,
+                "height": 480
+            },
+            {
+                "container": "ts",
+                "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/352799/1445289064805-h2exzu/1726530339_00001.png",
+                "file_size": null,
+                "url": "https://vid.tasty.co/output/352799/hls24_1726530339.m3u8",
+                "duration": 30535,
+                "bit_rate": null,
+                "content_type": "application/vnd.apple.mpegurl",
+                "aspect": "portrait",
+                "width": 608,
+                "minimum_bit_rate": 272,
+                "name": "low",
+                "maximum_bit_rate": 3259,
+                "height": 1080
+            }
+        ],
+        "beauty_url": null,
+        "is_shoppable": true,
+        "topics": [],
+        "total_time_tier": {
+            "tier": "under_2.5_hours",
+            "display_tier": "Under 2.5 hours"
+        },
+        "video_ad_content": "none",
+        "seo_title": "Blackberry Cream Cheese Kolaches Recipe - Tasty",
+        "yields": "Servings: 8 kolaches",
+        "original_video_url": "https://s3.amazonaws.com/video-api-prod/assets/c23eabba929b4f37baf377164c5c3fff/creamcheesekolaches.mp4",
+        "canonical_id": "recipe:9039",
+        "cook_time_minutes": 30,
+        "promotion": "full",
+        "video_id": 228864
+    }
+}
+]}

@@ -1,0 +1,143 @@
+{
+    "type": "meal_plan_carousel",
+    "name": "Cozy Fall Meals",
+    "items": [
+        {
+            "id": 10630,
+            "user_id": null,
+            "name": "Fall for Cozy Recipes",
+            "description": "Eating in season is the best way to ensure your food is at its best. Fall's cooler temperatures call for heartier, warmer options. Slow Cooker Coconut Curry is a perfect Monday recipe–it's easy and you'll have plenty of leftovers. Our Cranberry And Brie Crescent Ring could be the star of any autumn party, especially when served alongside Upside-Down Apple Cake. We recommend pairing the Hearty Vegetable Stew with Dutch Oven Jalapeño Cheddar Bread. Finally, why wait for Thanksgiving to make Festive Stuffed Butternut Squash?",
+            "type": "internal",
+            "brand_id": null,
+            "is_free": false,
+            "draft_status": "published",
+            "start_date": null,
+            "end_date": null,
+            "created_at": 1696956307,
+            "updated_at": 1696956311,
+            "num_items": 6,
+            "thumbnail_urls": [
+                "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/239394.jpg",
+                "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/191910.jpg",
+                "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/63625c2731f2400b973c4d7ca086c878/HolidayMainsNEWESTFB.jpg",
+                "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/ef101af4937d4c6291778e9b5321f623/HealthyAndHeartSoupsThatWillFillYouUpFBFINAL.jpg",
+                "https://img.buzzfeed.com/video-api-prod/assets/b1fc95ae0b7b4af3bc7737c2835a779b/BFV12165_UpsideDownAppleCake-ThumbTextless1080.jpg",
+                "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/167977.jpg"
+            ],
+            "credits": [
+                {
+                    "type": "internal"
+                }
+            ]
+        },
+        {
+            "id": 34302,
+            "user_id": null,
+            "name": "Pumpkin Spice Szn",
+            "description": "Is it time for pumpkin spice yet? We would have pumpkin spice season be all year-round, if we had a say. It's hard to argue with creme brulee, seed snacks, artichoke dip, and other creative mash-ups featured this week!",
+            "type": "internal",
+            "brand_id": null,
+            "is_free": true,
+            "draft_status": "published",
+            "start_date": null,
+            "end_date": null,
+            "created_at": 1725406007,
+            "updated_at": 1725406009,
+            "num_items": 5,
+            "thumbnail_urls": [
+                "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/411320.jpg",
+                "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/461635.jpg",
+                "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/346415.jpg",
+                "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/405257.jpg",
+                "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/350786.jpg"
+            ],
+            "credits": [
+                {
+                    "type": "internal"
+                }
+            ]
+        },
+        {
+            "id": 34300,
+            "user_id": null,
+            "name": "Oodles of Noodles ",
+            "description": "Noodles transcend cultures, time periods, and trends. Their satisfying chew texture seems to never go out of style. Try these new ways to explore the noodle this week!",
+            "type": "internal",
+            "brand_id": null,
+            "is_free": true,
+            "draft_status": "published",
+            "start_date": null,
+            "end_date": null,
+            "created_at": 1725405723,
+            "updated_at": 1725405730,
+            "num_items": 4,
+            "thumbnail_urls": [
+                "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/498199.jpg",
+                "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/a7b40131a92544188106b76c320bea25.jpeg",
+                "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/446763.jpg",
+                "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/479915.jpg"
+            ],
+            "credits": [
+                {
+                    "type": "internal"
+                }
+            ]
+        },
+        {
+            "id": 34299,
+            "user_id": null,
+            "name": "Cozy Carbs",
+            "description": "Our highly ranked and re-made carb-heavy dishes are in the spotlight this week. Try these cozy carb recipes that are sure to please a crowd! ",
+            "type": "internal",
+            "brand_id": null,
+            "is_free": true,
+            "draft_status": "published",
+            "start_date": null,
+            "end_date": null,
+            "created_at": 1725405483,
+            "updated_at": 1725405498,
+            "num_items": 5,
+            "thumbnail_urls": [
+                "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/499614.jpg",
+                "https://img.buzzfeed.com/video-api-prod/assets/df534e3f85894560a9540faa18b6e619/BFV6269_EasyChickenPiccata-Thumb1080.jpg",
+                "https://img.buzzfeed.com/video-api-prod/assets/31346a7d24254302ab0f7a8c984e1812/Square_Thumb_Option_1.jpg",
+                "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/502138.jpg",
+                "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/497722.jpg"
+            ],
+            "credits": [
+                {
+                    "type": "internal"
+                }
+            ]
+        },
+        {
+            "id": 21421,
+            "user_id": null,
+            "name": "Cozy Soup and Sandwich Pairings",
+            "description": "Who doesn't love a good soup and sandwich combo, especially when it's a bit chilly outside? Crafting the right combination can be tricky, but fret not — we've curated some easy and delicious pairings, so you don't have to. These delectable soups and sandwiches are a tasty reminder of why spending cozy nights in is always a fantastic idea.",
+            "type": "internal",
+            "brand_id": null,
+            "is_free": false,
+            "draft_status": "published",
+            "start_date": null,
+            "end_date": null,
+            "created_at": 1708708089,
+            "updated_at": 1708708235,
+            "num_items": 7,
+            "thumbnail_urls": [
+                "https://img.buzzfeed.com/video-api-prod/assets/9446b5bfcbf344fda7b7a5245720118a/BFV5578_GrilledCheeseAndTomatoSoupBreadBowl-THUMB1080SQ.jpg",
+                "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/156211.jpg",
+                "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/dcc700444e954d45acd55c486642dfab/final.jpg",
+                "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/d28d733071fc4b3381a5f4de8f75a1fd/BFV46856_EasyPartyAppetizersForTheLazyCook-FB-2.jpg",
+                "https://img.buzzfeed.com/video-api-prod/assets/e0364e3ce7dd419eb563cd1d7a137015/FB_Grid.jpg",
+                "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/5330d0a678ae4303a125dcf4e7330727/partyfinalFB.jpg",
+                "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/40008cd35cdb4a938ade8062da1ccb8a/fb.jpg"
+            ],
+            "credits": [
+                {
+                    "type": "internal"
+                }
+            ]
+        }
+    ]
+}
