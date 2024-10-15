@@ -6,11 +6,10 @@
             @if(!in_array(Request::segment($x) , ['home']))
                 <span class="text-sm font-semibold" >{{ ucwords(str_replace('-',' ',Request::segment($x)))}}</span>
             @else
-                <a class="text-sm underline font-semibold" href="{{  Request::segment($x) }}">{{ ucwords(str_replace('-',' ',Request::segment($x)))}}</a>
+                <a class="text-sm underline font-semibold" href="{{  Request::segment($x) }}">{{ ucwords(str_replace('-',' ',Request::segment($x)))}} </a>
             @endif
         @else 
             <span class="text-sm font-semibold" >{{ ucwords(str_replace('-',' ',Request::segment($x)))}}</span>
         @endif
     @endfor
-</div>
 @endif
