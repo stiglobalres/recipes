@@ -2,7 +2,7 @@
  A simple application using laravel + Tailwindcss
 
 
-link : [http://18.136.119.96/](http://18.136.119.96/)
+link : [http://154.254.91.100/](http://54.254.91.100/)
 
 ***Set Up The Server***
 
